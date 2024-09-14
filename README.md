@@ -1,4 +1,4 @@
-Estudante de análise e desenvolvimento de sistemas, na instituição Pontifícia Universidade Católica (PUCMG), curto transformar ideias em códigos.
+Estudante de análise e desenvolvimento de sistemas, na instituição Pontifícia Universidade Católica (PUCMG), transformando ideias em códigos.
 <!--
 **felplacerda/felplacerda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
